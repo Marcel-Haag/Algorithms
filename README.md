@@ -11,28 +11,33 @@
 | `insertionSort`         | Sort though inserting                      |
 | `fibonacciSearch`       | Divide list through fibonacci sequence     |
 | `reversePolishNotation` | Weight list division                       |
-| `lorem`                 | Ipsum                                      |
 
 ### Complex
-**Hashing**
-
-| Algorithm         | Comment                     |
-|-------------------|-----------------------------|
-| `lorem`           | Ipsum                       |
-
 **HigherSort**
 
-| Algorithm         | Comment                     |
-|-------------------|-----------------------------|
-| `lorem`           | Ipsum                       |
+| Algorithm   | Comment                                           |
+|-------------|---------------------------------------------------|
+| `heapSort`  | Min-Heap, Max-Heap, HeapSort is optional          |
+| `mergeSort` | Divide and conquer (merge)                        |
+| `quickSort` | Divide and conquer (quick)                        |
+| `radixSort` | linear, but with extra space + divide and conquer |
 
 **Matching**
 
+| Algorithm             | Comment                   |
+|-----------------------|---------------------------|
+| `BruteForce`          | -                         |
+| `KMP-Matching`        | -                         |
+| `Robin-Karp-Matching` | Uses hashing to scan text |
+
+**PickMinMaxK**
+
 | Algorithm         | Comment                     |
 |-------------------|-----------------------------|
 | `lorem`           | Ipsum                       |
 
-**PickMinMaxK**
+_Needed?_ \
+**Hashing**
 
 | Algorithm         | Comment                     |
 |-------------------|-----------------------------|
