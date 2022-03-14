@@ -1,6 +1,7 @@
 ## Algorithm Collection
 
 ### Basic
+
 | Algorithm               | Comment                                    |
 |-------------------------|--------------------------------------------|
 | `linearSearch`          | Find all elements                          |
@@ -13,6 +14,7 @@
 | `reversePolishNotation` | Weight list division                       |
 
 ### Complex
+
 **HigherSort**
 
 | Algorithm   | Comment                                           |
@@ -32,13 +34,10 @@
 
 **PickMinMaxK**
 
-| Algorithm         | Comment                     |
-|-------------------|-----------------------------|
-| `lorem`           | Ipsum                       |
-
-_Needed?_ \
-**Hashing**
-
-| Algorithm         | Comment                     |
-|-------------------|-----------------------------|
-| `lorem`           | Ipsum                       |
+| Algorithm         | Comment                                    |
+|-------------------|--------------------------------------------|
+| `mixSearch`       | Finds smallest element of list             |
+| `maxSearch`       | Finds biggest element of list              |
+| `minMaxSearch`    | Finds smallest and biggest element of list |
+| `kBiggestElement` | Finds k and biggest element of list        |
+| `quickSelection`  | Finds k and biggest element of list        |
