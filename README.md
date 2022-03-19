@@ -1,13 +1,32 @@
 ## Algorithm Collection
 
-### Basic
+Small collection of simple and complex algorithms written in python. \
+Images of how they go through lists are included in the folder structure under: \
+ `AlgorithmKind/AlgorithmPurpose/images`
+
+The different ***algorithm types*** included are:
+- Simple recursive algorithms
+- Backtracking algorithms
+- Divide and conquer algorithms
+- Greedy algorithms
+- Brute force algorithms
+
+<br/>
+
+<details>
+<summary>
+Open simple search and sort algorithms description
+</summary>
+<p>
+
+> Simple
 
 | Algorithm               | Comment                            |
 |-------------------------|------------------------------------|
 | `collatz`               | Collatz conjecture example         |
 | `factorial`             | n! = 1 * 2 * 3 * ... * (n – 1) * n |
 
-**NormalSearch**
+###### NormalSearch
 
 | Algorithm               | Comment                                |
 |-------------------------|----------------------------------------|
@@ -17,7 +36,7 @@
 | `gcd`                   | Biggest common divider                 |
 | `reversePolishNotation` | Weight list division                   |
 
-**NormalSort**
+###### NormalSort
 
 | Algorithm        | Comment                                    |
 |------------------|--------------------------------------------|
@@ -25,9 +44,20 @@
 | `selectionSort`  | Sort through selecting                     |
 | `insertionSort`  | Sort though inserting                      |
 
-### Complex
+</p>
+</details>
 
-**HigherSort**
+<br/>
+
+<details>
+<summary>
+Open complex search and sort algorithms description
+</summary>
+<p>
+
+> Complex
+
+###### HigherSort
 
 | Algorithm   | Comment                                           |
 |-------------|---------------------------------------------------|
@@ -36,7 +66,7 @@
 | `quickSort` | Divide and conquer (quick)                        |
 | `radixSort` | linear, but with extra space + divide and conquer |
 
-**PickMinMaxK**
+###### PickMinMaxK
 
 | Algorithm         | Comment                                    |
 |-------------------|--------------------------------------------|
@@ -46,10 +76,13 @@
 | `kBiggestElement` | Finds k and biggest element of list        |
 | `quickSelection`  | Finds k and biggest element of list        |
 
-**Matching**
+###### Matching
 
 | Algorithm             | Comment                   |
 |-----------------------|---------------------------|
-| `BruteForce`          | -                         |
-| `KMP-Matching`        | -                         |
+| `BruteForce`          | /                         |
+| `KMP-Matching`        | /                         |
 | `Robin-Karp-Matching` | Uses hashing to scan text |
+
+</p>
+</details>
